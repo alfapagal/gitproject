@@ -1,5 +1,13 @@
 #Contributors
+<<<<<<< HEAD
 Suvra
-Suvra Beni Hello Joe
 vineetraman
+Bhavesh
+Suvra
+Prabhat bhai
+Beni
+Hello
+Joe
 Sudha
+Namaste from everyone
+
