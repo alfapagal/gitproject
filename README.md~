@@ -1,7 +1,6 @@
 #Contributors
 Suvra
 vineetraman
-Bhavesh
 Suvra
 Prabhat bhai
 Beni
@@ -9,5 +8,10 @@ Hello
 Joe
 Sudha
 Namaste from everyone
+<<<<<<< HEAD
 Latest commit
+added branch 1
 
+=======
+Today's change from me
+>>>>>>> 77a9be4fead94e0e3971ce71c73aa0cc8dcace29
